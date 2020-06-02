@@ -1,14 +1,17 @@
 # lambdata-furkan
-unit 3 repo
 
 
 ## Installation
 
-TODO
+```sh
+pip install -i https://test.pypi.org/simple/ lambdata-furkan
+```
 
 ## Usage
 
-TODO
+''`py
+from my_lambdata.my_mod import enlarge
 
-''py''
+print(enlarge(8))
+```
 
